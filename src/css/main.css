@@ -1,0 +1,150 @@
+body {
+ background-color: blue;
+}
+
+td {
+ width: 11.11111111111%;
+}
+
+#mainTable {
+ width: 100%;
+ height: 100%;
+}
+
+#row2, #row3{
+ height: 35%;
+}
+
+#Scheme {
+ background-image: url("../images/scheme_twist.jpg");
+ background-size: cover;
+}
+
+#EscapedVillians {
+ background-color: light-blue;
+ background-size: cover;
+ border: 1px black solid;
+}
+
+#KO {
+ text-align: center;
+ font-size: 100;
+ border: 1px black solid;
+}
+
+#Wounds {
+ background-image: url("../images/wound.jpg");
+ background-size: cover;
+}
+
+#Bystanders {
+ background-image: url("../images/bystander.jpg");
+ background-size: cover;
+}
+
+#Mastermind {
+ text-align: center;
+ font-size: 50;
+ border: 1px black solid;
+}
+
+#City {
+ border: 1px black solid;
+}
+
+#Banner {
+ height: 10%;
+ text-align: center;
+ border: 1px black solid;
+}
+
+#Bridge {
+ border: 1px black solid;
+}
+
+#Streets {
+ border: 1px black solid;
+}
+
+#Rooftops {
+ border: 1px black solid;
+}
+
+#Bank {
+ border: 1px black solid;
+}
+
+#Sewers {
+ border: 1px black solid;
+}
+
+#BridgeLabel {
+ text-align: center;
+ border: 1px black solid;
+}
+
+#StreetsLabel {
+ text-align: center;
+ border: 1px black solid;
+}
+
+#RooftopsLabel {
+ text-align: center;
+ border: 1px black solid;
+}
+
+#BankLabel {
+ text-align: center;
+ border: 1px black solid;
+}
+
+#SewersLabel {
+ text-align: center;
+ border: 1px black solid;
+}
+
+#VillianDeck {
+ background-image: url("../images/backgrounds/card back.jpg");
+ background-size: cover;
+}
+
+#SHIELD {
+ border: 1px black solid;
+}
+
+#HQ {
+ border: 1px black solid;
+}
+
+#HQBanner {
+ border: 1px black solid;
+}
+
+#HQ1 {
+ border: 1px black solid;
+}
+
+#HQ2 {
+ border: 1px black solid;
+}
+
+#HQ2 {
+ border: 1px black solid;
+}
+
+#HQ3 {
+ border: 1px black solid;
+}
+
+#HQ4 {
+ border: 1px black solid;
+}
+
+#HQ5 {
+ border: 1px black solid;
+}
+
+#HeroDeck {
+ background-image: url("../images/backgrounds/card back.jpg");
+ background-size: cover;
+}
