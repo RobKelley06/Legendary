@@ -21,6 +21,7 @@ td {
 }
 
 #EscapedVillians {
+ text-align: center;
  background-color: light-blue;
  background-size: cover;
  border: 1px black solid;
@@ -109,7 +110,8 @@ td {
 }
 
 #SHIELD {
- border: 1px black solid;
+ background-image: url("../images/heroes/SHIELD Agent Maria Hill.png");
+ background-size: cover;
 }
 
 #HQ {
@@ -122,26 +124,32 @@ td {
 
 #HQ1 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HQ2 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HQ2 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HQ3 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HQ4 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HQ5 {
  border: 1px black solid;
+ text-align: center;
 }
 
 #HeroDeck {
